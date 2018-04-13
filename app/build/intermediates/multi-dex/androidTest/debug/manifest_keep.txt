@@ -1,0 +1,3 @@
+# Referenced at /Applications/XAMPP/xamppfiles/htdocs/codecanyon-15983920-restaurant-owners-complete-solution-android-full-application/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml:9
+-keep class com.android.test.runner.MultiDexTestRunner { <init>(...); }
+

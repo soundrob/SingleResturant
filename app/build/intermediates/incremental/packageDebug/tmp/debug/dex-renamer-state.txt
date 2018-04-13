@@ -1,0 +1,10 @@
+#Thu Apr 12 14:55:32 EEST 2018
+path.2=classes3.dex
+path.1=classes2.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=/Applications/XAMPP/xamppfiles/htdocs/codecanyon-15983920-restaurant-owners-complete-solution-android-full-application/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/transforms/dexMerger/debug/0
+base.1=/Applications/XAMPP/xamppfiles/htdocs/codecanyon-15983920-restaurant-owners-complete-solution-android-full-application/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/transforms/dexMerger/debug/0
+base.0=/Applications/XAMPP/xamppfiles/htdocs/codecanyon-15983920-restaurant-owners-complete-solution-android-full-application/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/transforms/dexMerger/debug/0
